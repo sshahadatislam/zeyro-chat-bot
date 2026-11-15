@@ -13,7 +13,7 @@
   "EMAIL": "Facebook number/ID",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
+  "BOTNAME": "𝐙𝐄𝐘𝐑𝐎 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
   "PREFIX": "/",
   "usePrefix": false,
   "reactUnsend": [
@@ -28,7 +28,7 @@
     "100044713412032"
   ],
   "DEVELOPER": [
-    "100044713412032"
+    "61595447164932"
   ],
   "APPSTATEPATH": "appstate.json",
   "FCAOption": {
