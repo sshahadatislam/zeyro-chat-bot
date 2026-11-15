@@ -1,1 +1,65 @@
-এখানে আপনার কুকি দিবেন ✅
+[
+    {
+        "key": "datr",
+        "value": "yYr5apXtEazbnR89fj2xFbQF",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-15T11:03:30.338Z",
+        "lastAccessed": "2026-11-15T11:03:30.338Z"
+    },
+    {
+        "key": "sb",
+        "value": "yYr5ajlt1vs0isW3VL_DwCmg",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-15T11:03:30.338Z",
+        "lastAccessed": "2026-11-15T11:03:30.338Z"
+    },
+    {
+        "key": "wd",
+        "value": "1366x633",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-15T11:03:30.338Z",
+        "lastAccessed": "2026-11-15T11:03:30.338Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61592726184500",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-15T11:03:30.338Z",
+        "lastAccessed": "2026-11-15T11:03:30.338Z"
+    },
+    {
+        "key": "fr",
+        "value": "1jFGhXyvPQY9evu3h.AWeDRQOxTd_mA63kxj14BDs5c6ZgnyEjsqj5mv3BZdoLdi1ocEg.Bq-YuK..AAA.0.0.Bq-YuK.AWeSDAc0zte9Cx5x5BB80r3oqPs",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-15T11:03:30.338Z",
+        "lastAccessed": "2026-11-15T11:03:30.338Z"
+    },
+    {
+        "key": "xs",
+        "value": "13%3A4Y4hV1TjcWVFLQ%3A2%3A1794739073%3A-1%3A-1%3A%3AAc2YFtp7ni4IlzhahZRcmYlmKbBTvM4j84m0t_tlHw",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-15T11:03:30.338Z",
+        "lastAccessed": "2026-11-15T11:03:30.338Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1794740445635%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-11-15T11:03:30.338Z",
+        "lastAccessed": "2026-11-15T11:03:30.338Z"
+    }
+]
